@@ -28,8 +28,20 @@
 # Sources
 (διευθύνσεις στης οποίες έψαξα)
 
-1ο παραδοτέο
-
+2ο παραδοτέο
+https://ar-js-org.github.io/AR.js-Docs/marker-based/
+https://free3d.com/3d-models/blender
+https://aframe.io/docs/1.3.0/components/gltf-model.html#using-compression
+https://www.youtube.com/watch?v=eqiH5_CZDO0&ab_channel=LoFrills
+https://medium.com/arjs/how-to-create-your-own-marker-44becbec1105
+https://ar-js-org.github.io/AR.js/three.js/examples/marker-training/examples/generator.html
+https://stackoverflow.com/questions/51058224/how-can-i-control-a-gtlf2-mesh-animation-in-aframe-with-onmouseover-event
+https://stackoverflow.com/questions/2500585/get-marker-position-in-x-y-in-google-maps
+https://www.youtube.com/watch?v=vWGASz5g0A0&list=WL&index=3&t=182s&ab_channel=Emiliusvgs
+https://stemkoski.github.io/AR-Examples/
+https://www.youtube.com/watch?v=vWGASz5g0A0&ab_channel=Emiliusvgs
+https://medium.com/chialab-open-source/10-tips-to-enhance-your-ar-js-app-8b44c6faffca
+https://stackoverflow.com/questions/47644935/how-to-create-custom-marker-in-ar-js
 
 
 3o παραδοτέο 
@@ -41,6 +53,7 @@ https://stackoverflow.com/questions/47365825/aframe-animation-how-to-pause-and-r
 https://stackoverflow.com/questions/56465829/interaction-with-aframe-click-to-show
 https://www.youtube.com/watch?v=RBwKkJsvg28&ab_channel=KTDuffy
 https://en.wikipedia.org/wiki/Eiffel_Tower
+https://free3d.com/3d-models/blender
 https://aframe.io/docs/1.3.0/components/visible.html
 https://www.youtube.com/watch?v=tC_EWLJ7elY&ab_channel=DaniloPasquariello
 https://www.youtube.com/watch?v=RsA5a-gDk4c&ab_channel=DaniloPasquariello
