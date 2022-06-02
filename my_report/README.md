@@ -28,6 +28,23 @@
 # Sources
 (διευθύνσεις στης οποίες έψαξα)
 
+1o παραδοτεο
+https://github.com/IdeaSpaceVR/aframe-particle-system-component/blob/master/examples/snow/index.html
+https://ideaspacevr.github.io/aframe-particle-system-component/examples/snow/
+https://github.com/lmalave/aframe-speech-command-component
+https://github.com/lmalave/aframe-speech-command-component/blob/master/index.js
+https://www.npmjs.com/package/aframe-speech-command-component
+https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API
+https://github.com/TalAter/SpeechKITT/blob/master/demo/index_annyang.html
+https://www.talater.com/annyang/
+https://www.youtube.com/watch?v=ocNfdg813SE&ab_channel=Raddy
+https://www.youtube.com/watch?v=kwewBrSNlmQ&ab_channel=BelajarIT
+https://github.com/TalAter/SpeechKITT/blob/master/demo/index.html#L1
+https://aframe.io/docs/1.3.0/primitives/a-sphere.htm
+https://aframe.io/docs/1.3.0/primitives/a-cylinder.html
+
+
+
 2ο παραδοτέο
 https://ar-js-org.github.io/AR.js-Docs/marker-based/
 https://free3d.com/3d-models/blender
